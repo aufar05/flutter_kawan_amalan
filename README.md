@@ -17,14 +17,17 @@ Kawan Amalan adalah aplikasi Flutter yang dirancang untuk membantu pengguna dala
 
 ## Tangkapan Layar
 
-![adzan](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/319942c9-fb1e-4434-992f-7154d8d1bc58)
-![amalanIsi](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/411e4443-627b-48e2-b003-4f59114effa1)
-![amalanKosong](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/16df3a49-3e3d-4ff0-9b54-6aa874518dc8)
-![home](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/408bbde2-97a8-466f-91fa-ec46520c315f)
-![home2](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/abace8c4-5d64-4d44-acd4-7d7e5b7fa271)
-![laporanIsi](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/c612f12a-e33c-44c8-8b85-e979b2c5430c)
-![laporanKosong](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/03fd9990-4492-4bef-a348-cf8e08b9c4fe)
-![tambahAmalan](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/be5af718-f86d-40f6-ac1d-8c7dbedee901)
+![home](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/a46315f1-5e11-4244-8677-3cb1aac2b871)
+![home2](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/2908179b-4583-4a13-89f3-83b38e13be64)
+![adzan](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/f0719880-a84e-476a-b03d-387fb4964022)
+![amalanIsi](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/23071762-0635-4db4-ad17-ce83b3e060b5)
+![amalanKosong](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/11fb1606-d60c-44f3-b8e2-046854346e95)
+![tambahAmalan](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/856646ca-b1dc-4b59-8a24-6d3ea29ead13)
+![laporanIsi](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/645cea0e-971f-4a96-8587-fc6c1d5762d0)
+![laporanKosong](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/fcf3a24a-ac9c-42d3-ae25-964ca9eecf90)
+
+
+
 
 
 ## 
