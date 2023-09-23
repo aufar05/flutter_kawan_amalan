@@ -17,8 +17,15 @@ Kawan Amalan adalah aplikasi Flutter yang dirancang untuk membantu pengguna dala
 
 ## Tangkapan Layar
 
-![Kawan Amalan Screenshot 1](link_screenshot_1.png)
-![Kawan Amalan Screenshot 2](link_screenshot_2.png)
+![adzan](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/319942c9-fb1e-4434-992f-7154d8d1bc58)
+![amalanIsi](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/411e4443-627b-48e2-b003-4f59114effa1)
+![amalanKosong](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/16df3a49-3e3d-4ff0-9b54-6aa874518dc8)
+![home](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/408bbde2-97a8-466f-91fa-ec46520c315f)
+![home2](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/abace8c4-5d64-4d44-acd4-7d7e5b7fa271)
+![laporanIsi](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/c612f12a-e33c-44c8-8b85-e979b2c5430c)
+![laporanKosong](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/03fd9990-4492-4bef-a348-cf8e08b9c4fe)
+![tambahAmalan](https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/be5af718-f86d-40f6-ac1d-8c7dbedee901)
+
 
 ## 
 © 2023 Kawan Amalan
