@@ -1,6 +1,6 @@
 # Kawan Amalan
 
-<img width="512" alt="logo_amalan" src="https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/902d6c80-622b-4339-a6fa-d5c8e7616f5c">
+<img width="320" height="320" alt="logo_amalan" src="https://github.com/Aizan05/flutter_kawan_amalan/assets/110684395/902d6c80-622b-4339-a6fa-d5c8e7616f5c">
 
 
 Kawan Amalan adalah aplikasi Flutter yang dirancang untuk membantu pengguna dalam mencatat dan menjalankan amalan sunah harian dengan lebih teratur. Aplikasi ini menawarkan sejumlah fitur yang bermanfaat:
