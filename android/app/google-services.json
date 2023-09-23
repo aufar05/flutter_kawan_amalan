@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291952755886",
+    "firebase_url": "https://flutter-amalan-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-amalan",
+    "storage_bucket": "flutter-amalan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291952755886:android:fedaf8a0e76a277435d93f",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291952755886-hbui3l2h931tbgb4832o7v0khcb8ls3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInWu7U4hh8e8_enjbFT6iK1lcgus0u6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291952755886-hbui3l2h931tbgb4832o7v0khcb8ls3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
